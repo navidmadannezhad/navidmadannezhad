@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navid Madannezhad</h1>
-<h3 align="center">I'm a Web Developer from Islamic Republic Of Iran.</h3>
+<h3 align="center">I'm a Web Developer from Earth.</h3>
 
 - 🌱 I’m currently learning **Django Framework**.
 
