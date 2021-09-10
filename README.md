@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Navid Madannezhad</h1>
 <h3 align="center">I'm a Frontend Web Developer from Earth.</h3>
 
-- 🌱 I’m currently learning **Django Framework**.
+- 🌱 I’m currently learning **Blockchain Development**.
 
-- 📫 How to reach me **navidproject283@gmail.com**
+- 📫 How to reach me: **navidproject283@gmail.com**
 
-- ⚡ Fun fact **I love Soviet Union and Red Army Choir.**
+- ⚡ Fun fact: **I love Soviet Union and Red Army Choir.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
