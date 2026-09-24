@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navidmadannezhad" alt="navidmadannezhad" /></a> </p>
 
-- 🌱 I’m currently learning **LLM-Based Software Engineering (Not vibe coding. I'm learning to integrate LLM systems in modern softwares)**
+- 🌱 I’m currently learning about **How to develop better engineering systems in the modern world**
 
 - 📫 How to reach me **navidproject283@gmail.com**
 
